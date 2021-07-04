@@ -120,6 +120,13 @@
       "cache": false
     },
     {
+      "name": "FairCrypt",
+      "url": "trtl.faircrypt.com",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },    
+    {
       "name": "FairCryptoCoins Node",
       "url": "node.faircryptocoins.xyz",
       "port": 11898,
